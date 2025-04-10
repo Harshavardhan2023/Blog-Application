@@ -131,7 +131,9 @@ Dodge-BlogVerse/
 
 ## 👥 Authors
 
-- Vaddi Harsha vardhan
+- G. Vishnu Vallabh Rao
+- Syed Anwaruddin
+- V. Harsha Vardhan
 
 ## 📜 License
 
