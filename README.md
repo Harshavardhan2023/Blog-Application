@@ -49,7 +49,7 @@ Dodge-BlogVerse/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harshavardhan2023/Dodge-BlogVerse.git
+   git clone https://github.com/Harshavardhan2023/Blog-Application.git
    cd Dodge-BlogVerse
    ```
 
